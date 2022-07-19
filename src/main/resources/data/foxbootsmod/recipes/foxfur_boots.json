@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Y": {
+      "item": "minecraft:leather_boots"
+    },
+    "X": {
+      "item": "foxbootsmod:fox_fur"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XXX"
+  ],
+  "result": {
+    "item": "foxbootsmod:fox_boots"
+  }
+}
